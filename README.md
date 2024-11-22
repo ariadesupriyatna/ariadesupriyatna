@@ -27,3 +27,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ariadesupriyatna&color=ff69b4)
+
+
+
+![Cybersecurity GIF](https://media1.tenor.com/m/hoCDEsJMHXUAAAAd/assembly-coding.gif)
