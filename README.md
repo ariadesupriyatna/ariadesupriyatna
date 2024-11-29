@@ -32,5 +32,5 @@
 
 ![Cybersecurity GIF](https://media1.tenor.com/m/hoCDEsJMHXUAAAAd/assembly-coding.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack.the.Galaxy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack.the.Universe)](https://git.io/typing-svg)
 
