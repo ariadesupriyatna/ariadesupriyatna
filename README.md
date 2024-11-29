@@ -15,13 +15,14 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bsd" height="30" alt="BSD logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="Lua logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Slackware_logo.svg/512px-Slackware_logo.svg.png" height="30" alt="Slackware logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="C logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="30" alt="Arch Linux logo"  />
 </div>
 
 ---
