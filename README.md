@@ -23,6 +23,14 @@
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="C logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="30" alt="Arch Linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="30" alt="Kali Linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="Vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo"  />
 </div>
 
 ---
