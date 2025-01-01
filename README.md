@@ -59,12 +59,12 @@
       </a>
     </td>
     <td>
-      <a href="https://saweria.co/ariadesupriyatna">
+      <a href="https://trakteer.id/ari_adesupriyatna">
         <img src="https://cdn.trakteer.id/images/mix/trakteer-icon-thumbnail.png" width="24" alt="Trakteer"> Trakteer
       </a>
     </td>
     <td>
-      <a href="https://saweria.co/ariadesupriyatna">
+      <a href="ko-fi.com/ariadesupriyatna">
         <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="24" alt="Ko-Fi"> Ko-Fi
       </a>
     </td>
