@@ -64,7 +64,7 @@
       </a>
     </td>
     <td>
-      <a href="ko-fi.com/ariadesupriyatna">
+      <a href="https://ko-fi.com/ariadesupriyatna">
         <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="24" alt="Ko-Fi"> Ko-Fi
       </a>
     </td>
