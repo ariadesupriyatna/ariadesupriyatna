@@ -59,7 +59,7 @@
       </a>
     </td>
     <td>
-      <a href="https://trakteer.id/ari_adesupriyatna">
+      <a href="https://trakteer.id/ari_adesupriyatna/tip">
         <img src="https://cdn.trakteer.id/images/mix/trakteer-icon-thumbnail.png" width="24" alt="Trakteer"> Trakteer
       </a>
     </td>
